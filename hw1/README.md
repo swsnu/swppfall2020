@@ -37,7 +37,7 @@ In this assignment, you will get familiar with:
 You need to implement the `fetch.py` file that sends a request to fetch the HTML files from the [Social Security Administration website](https://www.ssa.gov/cgi-bin/popularnames.cgi), which provides neat data by year of what names are the most popular for babies born that year in the USA. We will extract HTML files ranging from 2001 to 2018. After fetching the files, you have to save them under `babydata` directory. The expected HTML files are given for reference under `babydata` directory. They should be matched with the output files that your script generates. To complete the fetching script, you should implement the following functions:
 
 **1) `fetch_top_1000`**
-This method receives the year of interest and returns the contents of the html file fetched from the webpage. Use `urllib` to fetch the html file. Refer to [python documentation](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen) for more information on `urllib`.
+This method receives two arguments: the year of interest and the target url. It returns the contents of the html file fetched from the given webpage. Use `urllib` to fetch the html file. Refer to [python documentation](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen) for more information on `urllib`.
 
 **2) `safe_internet_fetch`**
 You need to implement a decorator that checks whether the request was successful. This decorator will decorate the `fetch_top_1000` function to handle the situations where fetching fails due to an invalid url or internet connection error by throwing `BabyFetchException`.
@@ -62,8 +62,8 @@ You need to implement a decorator that checks whether the file exists or not.
 This decorator will decorate the `__init__` of the parser to prevent constructing a parser with non-existing file name.
 
 Just like the `safe_internet_fetch` above, we provide `BabynameFileNotFoundException` for this purpose. 
-If there is no such file with the given filename argument of the function to decorate, this decorator has to raise the custom `BabynameFileNotFoundException` with custom error message: `No such babyname file or directory: {filename}`.
-You can assueme that the `filename` argument is the first argument for the function to decorate.
+If there is no such file with the given filename argument of the function to decorate, this decorator has to raise the custom `BabynameFileNotFoundException` with custom error message: `No such file: {filename}`.
+You can assuem that the `filename` argument is the first argument for the function to decorate.
 
 **3) `parse`**
 
@@ -93,7 +93,7 @@ babyname_parser.BabynameFileNotFoundException: No such file: ./babydata/1900.htm
 
 You should **NOT** edit parts other than those marked as `TODO`s in your skeleton code when you submit your assignment, because we will grade your `BabynameParser` implementation by not only running `run.py` file but also importing the class and test the methods like above (with different files and lambdas, of course).
 Also, the error message that comes out when the entered file does not exist must be 
-`No such babyname file or directory: {filename}` and the result of `parse` method must be a list of all processed tuples.
+`No such file: {filename}` and the result of `parse` method must be a list of all processed tuples.
 Same applies to the `fetch.py`.
 
 ### 3. Fill the run script
