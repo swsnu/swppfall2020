@@ -16,7 +16,7 @@ In this assignment, you will practice fetching HTML files from the Internet webs
 Based on the provided skeleton code, you will implement the functions needed to do the tasks above.
 
 You don't have to understand the implemented methods provided in the skeleton code, but studying them can be useful for your future term project.
-This is a modification of google's [Baby Names Python Exercise](https://developers.google.com/edu/python/exercises/baby-names).
+This project is a modification of google's [Baby Names Python Exercise](https://developers.google.com/edu/python/exercises/baby-names).
 
 The goal of this assignment is to practice using various functions of the Python language.
 In this assignment, you will get familiar with:
@@ -63,7 +63,7 @@ This decorator will decorate the `__init__` of the parser to prevent constructin
 
 Just like the `safe_internet_fetch` above, we provide `BabynameFileNotFoundException` for this purpose. 
 If there is no such file with the given filename argument of the function to decorate, this decorator has to raise the custom `BabynameFileNotFoundException` with custom error message: `No such file: {filename}`.
-You can assuem that the `filename` argument is the first argument for the function to decorate.
+You can assume that the `filename` argument is the first argument for the function to decorate.
 
 **3) `parse`**
 
@@ -197,7 +197,7 @@ git push -u origin master
 
 Alternatively you can start by copying skeleton codes :)
 ```
-cp -r ${swppfall2019-home}/hw1 ~/workspace/swpp-hw1-USERNAME
+cp -r ${swppfall2020-home}/hw1 ~/workspace/swpp-hw1-USERNAME
 git init
 git add .
 git commit -m "first commit"
