@@ -7,7 +7,7 @@
 ## Assignments
 
 - Sep. 02 : [homework 1](hw1) is out
-  - **Due : 9/11 (Sun) 18:00 (hard deadline)**
+  - **Due : 9/11 (Fri) 18:00 (hard deadline)**
   - This is an individual assignment
 
 - Sep. 09 : homework 2 is out
