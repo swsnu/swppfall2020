@@ -47,7 +47,7 @@ There may be some changes to the schedule.
 |11/23,25 | ML pipeline | Final Exam 11/26 | Coding exams (Minimum 3 hours) |
 |11/30,12/2 | Operation | AWS + Scaling + Deployment | Project sprint 5 begin |
 |12/7,9 | TBD | Testing Session | |
-|12/17 | Project poster session | | Project final report (due 12/17 6pm) |
+|12/17 | Project poster session | | Project final report (due 12/18 6pm) |
 
 ## Office hours
 **Professor** : 
