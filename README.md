@@ -1,8 +1,8 @@
 # M1522.002400 Principles and Practices of Software Development
 
 ## Announcements
-- HW1 out: 9/2 (Wed); due: 9/11 (Fri) 6pm
-- Team formation due 9/13 (Sun) 6pm
+- [ ] HW1 out: 9/2 (Wed); due: 9/11 (Fri) 6pm
+- [ ] Team formation due 9/13 (Sun) 6pm
 
 ## Assignments
 
@@ -13,7 +13,7 @@
 - Sep. 09 : homework 2 is out
   - **Due : 9/18 (Fri) 18:00 (hard deadline)**
   - This is an individual assignment
-  
+
 - Sep. 21: homework 3 is out
   - **Due : 10/6 (Tue) 18:00 (hard deadline)**
   - This is an individual assignment
@@ -47,13 +47,13 @@ There may be some changes to the schedule.
 |11/23,25 | FIXME | Final Exam 11/26 | Coding exams (Minimum 3 hours) |
 |11/30,12/2 | FIXME | AWS + Scaling + Deployment | Project sprint 5 begin |
 |12/7,9 | FIXME | Testing Session | |
-|12/17 | Project poster session | | Project final report (due 12/17 6pm) |
+|12/17 | Project poster session | | Project final report (due 12/18 6pm) |
 
 ## Office hours
 **Professor** : 
   - Office: Bldg. 302, Rm. 322
   - Mon,Wed 13:00-14:00, by appointment
-  
+
 **TAs** :
 
 Haeyoon Cho
@@ -66,6 +66,11 @@ Yunmo Koo
   - Office: Bldg. 302, Rm. 420
   - Office hour: Monday 17:00~18:00
 
+Alchan Kim
+  - Email: a9413miky@gmail.com
+  - Office: Bldg. 302, Rm. 420
+  - Office hour: Wednesday 16:00~17:00 
+
 Donghyun Kim
   - Email: donghyunkim816@gmail.com  
   - Office: Bldg. 302, Rm. 420
@@ -75,3 +80,4 @@ Donghyun Kim
 
 ## Project Teams
 The project list will be announced after the team formation is done.
+
