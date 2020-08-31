@@ -39,5 +39,5 @@ Note : Every document for each milestones must be written in **English**!
 | Sprint 4 | Nov. 16 (Mon)| Nov. 28 (Sat), 6pm(report due) | TH/F|
 | Sprint 5 | Nov. 30 (Mon)| Dec. 12 (Sat), 6pm(report due) | TH/F |
 | Final poster | Dec. 17 (Thu) | | | 
-| Final report |  | Dec. 18 (Fri) 6pm | | 
+| Final report |  | Dec. 17 (Thu) 6pm | | 
 
