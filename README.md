@@ -15,11 +15,11 @@
   - This is an individual assignment
 
 - Sep. 21: homework 3 is out
-  - **Due : 10/6 (Tue) 18:00 (hard deadline)**
+  - **Due : 10/11 (Sun) 18:00 (hard deadline)**
   - This is an individual assignment
 
-- Oct. 7: homework 4 is out
-  - **Due : 10/27 (Tue) 18:00 (hard deadline)**
+- Oct. 12: homework 4 is out
+  - **Due : 10/25 (Sun) 18:00 (hard deadline)**
   - This is an individual assignment
 
 ## [Project Guideline](project)
@@ -34,13 +34,13 @@ There may be some changes to the schedule.
 |-------|---------|------------------|---------------------------|
 |9/2 | Course overview | Environment Setup + Python + HTML/Javascript | HW1 out 9/2 |
 |9/7,9| Challenges to make software; Version control | Git + HTML/JavaScript(DOM) | HW2 out 9/9, <br/> HW1 due 9/11 6pm, <br/> Team formation due 9/13 (Sun) 6pm |
-|9/14,16 | SaaS architecture; Building software; ORM | Django | HW2 due 9/18 6pm |
-|9/21,23 | Project sprints; Requirements and specification;  | Django + Python Testing | HW3 out 9/21, <br/> Project proposal due 9/22 6pm |
+|9/14,16 | SaaS architecture; Building software; ORM | React | HW2 due 9/18 6pm |
+|9/21,23 | Project sprints; Requirements and specification;  | React | HW3 out 9/21, <br/> Project proposal due 9/22 6pm |
 |9/28 | Testing | Choosuk (No practice session) | |
-|10/5,7 | Software development process; Design patterns | React | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint), <br/> HW3 due 10/6 6pm, <br/> HW4 out 10/7 |
-|10/12,14 | Taming complexity; defensive programming; Design patterns | React | |
-|10/19,21 | Design patterns | React | Project sprint 2 begin |
-|10/26,28 | Design patterns; code refactoring | CI + SonarCloud + Design Pattern | HW 4 due 10/27 6pm |
+|10/5,7 | Software development process; Design patterns | React | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint), <br/> HW3 due 10/11 6pm |
+|10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW4 out 10/12|
+|10/19,21 | Design patterns | Django + Python Testing | Project sprint 2 begin, <br/> HW4 due 10/25 6pm |
+|10/26,28 | Design patterns; code refactoring | CI + SonarCloud + Design Pattern | |
 |11/2,4 | Operation | AWS + Code Refactoring | Project sprint 3 begin |
 |11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on both 11/11 and 11/12. |
 |11/16,18 | ML pipeline | AWS | Project sprint 4 begin |
