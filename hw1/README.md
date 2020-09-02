@@ -118,7 +118,7 @@ $ tail -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
 2018,1000,Maliah,F,72
 
 $ head -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
-year,rank,name,gender,rank_delta
+year,rank,name,gender,rank_change
 2001,1,Jacob,M,
 2001,2,Michael,M,
 2001,3,Matthew,M,
