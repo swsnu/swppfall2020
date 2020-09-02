@@ -154,7 +154,7 @@ Due: 9/11 (Fri) 18:00 (This is a hard deadline)
 
 You must create your own *private* repository under your account.
 You don't need to submit your homework by email.
-**Make sure to name your repository propty and to add the TAs as collaborators in your repository settings!** (Detailed instructions below).
+**Make sure to name your repository propty and to add TA as your collaborator in the repository settings!** (Detailed instructions below).
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Since there are many students in this class, we need to automatize the grading process, so your homework may not be graded properly if your directory hierarchy doesn't look like this:
 ```
@@ -181,7 +181,7 @@ Also, make sure to push your work on Github on time.
 
 1. Go to your github profile: `https://github.com/YOUR_USERNAME`.
 2. Under `Repositories`, click on `New`.
-3. Fill in `swpp-hw1-USERNAME` as your repository name, and mark is as `Private`. (e.g., `swpp-hw1-hy00nc`)
+3. Fill in `swpp-hw1-USERNAME` as your repository name, and mark is as `Private`. (e.g., `swpp-hw1-kdh0102`)
 4. Hit `Create repository`.
 5. In terminal, go to the directory that you will be working in (e.g., `~/workspace/swpp-hw1-USERNAME` or `~/swpp-hw1-USERNAME`)
 6. Type in and run the following commands, which is also shown on the page that you will be looking at after step 4:
@@ -205,5 +205,5 @@ git remote add origin https://github.com/USERNAME/swpp-hw1-USERNAME
 git push -u origin master
 ```
 
-7. Under `Settings` then `Collaborators` tab, Add TAs as your collaborators: `kooyunmo`, `kdh0102`, `Algy` and `hy00nc`.
+7. Under `Settings` then `Collaborators` tab, Add Homework TA as your collaborator: `kdh0102`.
 8. You're all set! After finishing your homework, push your contents to your repository on time!
