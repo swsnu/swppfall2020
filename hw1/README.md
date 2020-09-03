@@ -2,7 +2,7 @@
 
 **Due: 9/11 (Fri) 18:00 (This is a hard deadline)**
 
-This assignment is for you to become familiar with Python, which will be used to build a backend system in hw3.
+This assignment is for you to become familiar with Python, which will be used to build a backend system in hw4.
 This is an **individual** assignment.
 
 From the beginning to the end of the development, you must use **GitHub** for version control.
