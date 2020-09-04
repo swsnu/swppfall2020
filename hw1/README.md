@@ -2,7 +2,7 @@
 
 **Due: 9/11 (Fri) 18:00 (This is a hard deadline)**
 
-This assignment is for you to become familiar with Python, which will be used to build a backend system in hw3.
+This assignment is for you to become familiar with Python, which will be used to build a backend system in hw4.
 This is an **individual** assignment.
 
 From the beginning to the end of the development, you must use **GitHub** for version control.
@@ -154,7 +154,7 @@ Due: 9/11 (Fri) 18:00 (This is a hard deadline)
 
 You must create your own *private* repository under your account.
 You don't need to submit your homework by email.
-**Make sure to name your repository propty and to add TA as your collaborator in the repository settings!** (Detailed instructions below).
+**Make sure to name your repository properly and to add TA as your collaborator in the repository settings!** (Detailed instructions below).
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Since there are many students in this class, we need to automatize the grading process, so your homework may not be graded properly if your directory hierarchy doesn't look like this:
 ```
@@ -205,5 +205,5 @@ git remote add origin https://github.com/USERNAME/swpp-hw1-USERNAME
 git push -u origin master
 ```
 
-7. Under `Settings` then `Collaborators` tab, Add Homework TA as your collaborator: `kdh0102`.
+7. Under `Settings` then `Collaborators` tab, Add Homework TA as your collaborator: **`kdh0102`**.
 8. You're all set! After finishing your homework, push your contents to your repository on time!
