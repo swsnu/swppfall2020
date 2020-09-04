@@ -83,6 +83,7 @@ class BabynameParser:
             parsing_lambda: The parsing lambda.
                             It must process an single (string, string, string) tuple and return something.
         Returns:
-            A list of `BabyRecord` objects. (`BabyRecord` class is defined in `run.py`.)
+            A list of lambda function's output
         """
         # TODO: Implement this method
+
