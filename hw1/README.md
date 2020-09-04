@@ -44,7 +44,7 @@ You need to implement a decorator that checks whether the request was successful
 You can catch the above error using [urllib.error.URLError] (https://docs.python.org/3/library/urllib.error.html)
 This method should be implemented as a decorator in order to be easily applied to other methods. Please check out [this document](https://www.programiz.com/python-programming/decorator) to understand how to implement python decorator.
 
-For debuggability, defining your own exception and intentionally raising the exception is useful because you can identify the root cause of the exception and distinguish the exception from others. We provide `BabyFetchException` for this purpose. If there is no such file with the given filename argument of the function to decorate, this decorator has to raise the custom `BabyFetchException` with custom error message: `Request Failed`. We will not grade your decorator with it's stack trace but just test the class of the raised exception and it's message.
+For debuggability, defining your own exception and intentionally raising the exception is useful because you can identify the root cause of the exception and distinguish the exception from others. We provide `BabyFetchException` for this purpose. If the decorated function fails to fetch the data, this decorator has to raise the custom `BabyFetchException` with custom error message: `Request Failed`. We will not grade your decorator with it's stack trace but just test the class of the raised exception and it's message.
 
 ### 2. Implement `BabynameParser`
 
