@@ -8,6 +8,15 @@ This is an **individual** assignment.
 From the beginning to the end of the development, you must use **GitHub** for version control.
 This will be used for your submission as well, so please keep it in mind.
 
+
+## Fix History
+Click the links to see the commits that made changes.
+
+- 9/4
+  - [**Correction**: The output csv file name should be `babyname.report.csv`, not `output.csv`.](https://github.com/swsnu/swppfall2020/commit/0a01ada276c2052066777b0323c60db49b286adc)
+  - [**Comment fix for clarification**: In `babyname_parser.py`, `parse` method returns a list of lambda function's output.](https://github.com/swsnu/swppfall2020/commit/559d1c68899789cb916cc8c0e5900152de16c9e3)
+  - [**Correction**: `BabyFetchException` is raised when fetch is failed.](https://github.com/swsnu/swppfall2020/commit/f680a4ebbc9107971febbe5ec4fef1c4e8735d47)
+
 ## Python
 
 ### Objective
