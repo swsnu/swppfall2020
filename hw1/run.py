@@ -17,7 +17,7 @@ from babyname_parser import BabynameParser
 """
 Parse html files where the popular baby names are listed for each year,
 collect records and save them into "babydata/" as a csv format.
-The name of the output CSV file is "output.csv".
+The name of the output CSV file is "babyname.report.csv".
 """
 
 class BabyRecord:
