@@ -75,7 +75,7 @@ You need to implement a decorator that checks whether the file exists or not.
 This decorator will decorate the `__init__` of the parser to prevent constructing a parser with non-existing file name.
 
 Just like the `safe_internet_fetch` above, we provide `BabynameFileNotFoundException` for this purpose. 
-If there is no such file with the given filename argument of the function to decorate, this decorator has to raise the custom `BabynameFileNotFoundException` with custom error message: `No such file: {filename}`.
+If there is no such file with the generated filename following the convention of the function to decorate, this decorator has to raise the custom `BabynameFileNotFoundException` with custom error message: `No such file: {filename}`.
 You can assume that `filename` is the name generated using the first and second argument (i.e. directory path and year) for the function to decorate.
 
 **3) `parse`**
