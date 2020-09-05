@@ -14,6 +14,7 @@ Click the links to see the commits that made changes.
 
 - 9/5
   - [**Comment fix for clarification**: Clarified comments for BabynameParser.](https://github.com/swsnu/swppfall2020/commit/9db5bab5158d99f71b2350707c60147f9d841f05)
+  - [**Comment fix for clarification**: Clarified comments for run.py.](https://github.com/swsnu/swppfall2020/commit/e431fd115dc8eb1fd1408d3747c275be36ada7ee)
 
 - 9/4
   - [**Correction**: The output csv file name should be `babyname.report.csv`, not `output.csv`.](https://github.com/swsnu/swppfall2020/commit/0a01ada276c2052066777b0323c60db49b286adc)
