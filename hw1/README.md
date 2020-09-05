@@ -85,7 +85,7 @@ This method applies a given lambda function to all of the extracted tuples and r
 **Usage**
 
 When you are done, you can parse any information about the popluar name ranks in a year by using the implemented parser. 
-In the python console, you can test your code with the provided `babyname2001.html` file like below.
+In the python console, you can test your code with the provided `2001.html` file like below.
 
 ```
 >>> from babyname_parser import BabynameParser
