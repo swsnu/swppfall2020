@@ -54,16 +54,17 @@ class BabynameParser:
     def __init__(self, dirname, year):
         """
         (3 points)
-        Given a file name for `{year}.html`, extracts the year of the file and
-        a list of the (rank, male-name, female-name) tuples from the file by using regex.
+        Given directory path and year, extracts the name of a file to open the corresponding file
+        and a list of the (rank, male-name, female-name) tuples from the file read by using regex.
         [('1', 'Michael', 'Jessica'), ('2', 'Christopher', 'Ashley'), ....]
 
         Args:
             dirname: The name of the directory where baby name html files are stored
             year: The year number. int.
         """
-
-        text = "TODO" # TODO: Open and read html file of the corresponding year, and assign the content to `text`. 
+        # TODO: Open and read html file of the corresponding year, and assign the content to `text`.
+        # Also, make the BabynameParser to have the year attribute.
+        text = "TODO"
 
         # TODO: Implement the tuple extracting code.
         # `self.rank_to_names_tuples` should be a list of tuples of ("rank", "male name", "female name").

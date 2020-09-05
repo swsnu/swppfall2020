@@ -89,7 +89,7 @@ In the python console, you can test your code with the provided `babyname2001.ht
 >>> parser.year
 '1994'
 >>> parser.rank_to_names_tuples
-[[('1', 'Jacob', 'Emily'), ('2', 'Michael', 'Madison'), ('3', 'Matthew', 'Hannah'), ...]
+[('1', 'Jacob', 'Emily'), ('2', 'Michael', 'Madison'), ('3', 'Matthew', 'Hannah'), ...]
 >>> parser.parse(lambda rank_to_names_tuple: rank_to_names_tuple[0])
 ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ...]
 >>> BabynameParser("./babydata", 1900)
