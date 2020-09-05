@@ -76,7 +76,7 @@ This decorator will decorate the `__init__` of the parser to prevent constructin
 
 Just like the `safe_internet_fetch` above, we provide `BabynameFileNotFoundException` for this purpose. 
 If there is no such file with the given filename argument of the function to decorate, this decorator has to raise the custom `BabynameFileNotFoundException` with custom error message: `No such file: {filename}`.
-You can assume that the `filename` argument is the first argument for the function to decorate.
+You can assume that `filename` is the name generated using the first and second argument (i.e. directory path and year) for the function to decorate.
 
 **3) `parse`**
 

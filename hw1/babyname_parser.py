@@ -43,7 +43,8 @@ def check_filename_existence(func):
     Args:
         func: The function to decorate.
     Raises:
-        BabynameFileNotFoundException: if there is no such file named as the first argument of the function to decorate.
+    BabynameFileNotFoundException: if there is no such file while func tries to open a file.
+                                        We assume func receives directory path and year to generate a filename to open.
     """
     # TODO: Implement this decorator
 
