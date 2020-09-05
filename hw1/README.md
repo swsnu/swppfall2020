@@ -12,6 +12,9 @@ This will be used for your submission as well, so please keep it in mind.
 ## Fix History
 Click the links to see the commits that made changes.
 
+- 9/5
+  - [**Comment fix for clarification**: Clarified comments for BabynameParser.](https://github.com/swsnu/swppfall2020/commit/9db5bab5158d99f71b2350707c60147f9d841f05)
+
 - 9/4
   - [**Correction**: The output csv file name should be `babyname.report.csv`, not `output.csv`.](https://github.com/swsnu/swppfall2020/commit/0a01ada276c2052066777b0323c60db49b286adc)
   - [**Comment fix for clarification**: In `babyname_parser.py`, `parse` method returns a list of lambda function's output.](https://github.com/swsnu/swppfall2020/commit/559d1c68899789cb916cc8c0e5900152de16c9e3)
