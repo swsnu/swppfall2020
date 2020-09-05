@@ -107,8 +107,10 @@ def main():
         # If the rank of previous year is not available, set `rank_change` to `None`.
 
     # TODO: Save the result as a csv file named `babyname.report.csv` under `babydata/` directory.
-    # The example output of `babyname.report.csv` is provided in `babydata/` folder.
-    # You should make the same result with the example file.
+    # To verify correctness, try running this function using the html files we provided in the swppfall2020 repository
+    # and compare the content of the babyname.report.csv.
+    # Due to the inconsistency of the ranking information provided by ssa.gov, your output and the provided example output may differ
+    # See issue #12 for more info
 
     save(os.path.join("babydata", "babyname.report.csv"), records)
 
