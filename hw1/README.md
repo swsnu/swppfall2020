@@ -92,7 +92,7 @@ In the python console, you can test your code with the provided `2001.html` file
 >>> from babyname_parser import BabynameParser
 >>> parser = BabynameParser("/{YOUR_HW_PATH}/babydata", 2001)
 >>> parser.year
-'1994'
+'2001'
 >>> parser.rank_to_names_tuples
 [('1', 'Jacob', 'Emily'), ('2', 'Michael', 'Madison'), ('3', 'Matthew', 'Hannah'), ...]
 >>> parser.parse(lambda rank_to_names_tuple: rank_to_names_tuple[0])
