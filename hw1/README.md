@@ -8,9 +8,11 @@ This is an **individual** assignment.
 From the beginning to the end of the development, you must use **GitHub** for version control.
 This will be used for your submission as well, so please keep it in mind.
 
-
 ## Fix History
 Click the links to see the commits that made changes.
+
+- 9/6
+  - [**Correction**: fix the example for `BabynameParser` in README.md](https://github.com/swsnu/swppfall2020/commit/8cf6a26a601eab25a89b033be2e3695873ce9039#diff-d4ebad57de104fd377fa5c0bd6f6dc92)
 
 - 9/5
   - [**Comment fix for clarification**: Clarified comments for BabynameParser.](https://github.com/swsnu/swppfall2020/commit/9db5bab5158d99f71b2350707c60147f9d841f05)
