@@ -11,7 +11,7 @@
   - **Due : 9/11 (Fri) 18:00 (hard deadline)**
   - This is an individual assignment
 
-- Sep. 09 : homework 2 is out
+- Sep. 09 : [homework 2](hw2) is out
   - **Due : 9/18 (Fri) 18:00 (hard deadline)**
   - This is an individual assignment
 
