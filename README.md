@@ -2,8 +2,9 @@
 
 ## Announcements
 - [x] HW1 out: 9/2 (Wed); due: 9/11 (Fri) 6pm
-- [ ] Team formation due 9/13 (Sun) 6pm
+- [x] Team formation due 9/13 (Sun) 6pm
 - [ ] HW2 out: 9/9 (Wed); due: 9/18 (Fri) 6pm
+- [ ] HW3 out: 9/21 (Mon); due 10/11 (Sun) 6pm
 
 ## Assignments
 
