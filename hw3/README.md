@@ -151,6 +151,19 @@ You are required to create a total of five pages as shown in the below storyboar
 We provide a simple [json-server](https://github.com/typicode/json-server) backend with our skeleton code (`skeleton/api`).
 Due to its simplicity, we do not go over too much into authentication and security for now, but later on (with HW4 and your project), it should be considered.
 
+**NOTE: For Windows users**
+To run the mocked json server in Windows environment, please change the following line in `skeleton/package.json`.
+
+From:
+``` json
+"backend": "cp api/db.json api/_db.json && json-server --watch api/_db.json --routes api/routes.json --port 8000"
+```
+To:
+``` json
+"backend": "copy /y api￦￦db.json api￦￦_db.json && json-server --watch api￦￦_db.json --routes api￦￦routes.json --port 8000"
+```
+
+
 To run server, just type following command at the root of the project
 ```
 $ yarn install (only for the first time)
