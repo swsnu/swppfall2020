@@ -5,7 +5,7 @@
 - [x] Team formation due 9/13 (Sun) 6pm
 - [x] HW2 out: 9/9 (Wed); due: 9/18 (Fri) 6pm
 - [ ] Project proposal due 9/22 (Tue) 6pm
-- [ ] HW3 out: 9/21 (Mon); due 10/11 (Sun) 6pm
+- [ ] HW3 out: 9/21 (Mon); due 10/4 (Sun) 6pm (feature), 10/12 (Mon) 6pm (unittest)
 
 ## Assignments
 
@@ -17,8 +17,8 @@
   - **Due : 9/18 (Fri) 18:00 (hard deadline)**
   - This is an individual assignment
 
-- Sep. 21: homework 3 is out
-  - **Due : 10/12 (Sun) 18:00 (hard deadline)**
+- Sep. 21: [homework 3](hw3) is out
+  - **Due : 10/4 (Sun) 18:00 (feature), 10/12 (Mon) 18:00 (unittest) (hard deadline)**
   - This is an individual assignment
 
 - Oct. 12: homework 4 is out
