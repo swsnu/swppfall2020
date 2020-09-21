@@ -152,6 +152,7 @@ We provide a simple [json-server](https://github.com/typicode/json-server) backe
 Due to its simplicity, we do not go over too much into authentication and security for now, but later on (with HW4 and your project), it should be considered.
 
 **NOTE: For Windows users**
+
 To run the mocked json server in Windows environment, please change the following line in `skeleton/package.json`.
 
 From:
@@ -163,8 +164,7 @@ To:
 "backend": "copy /y api￦￦db.json api￦￦_db.json && json-server --watch api￦￦_db.json --routes api￦￦routes.json --port 8000"
 ```
 
-
-To run server, just type following command at the root of the project
+To run the server, just type following command at the root of the project
 ```
 $ yarn install (only for the first time)
 $ yarn run backend (or npm run backend)
