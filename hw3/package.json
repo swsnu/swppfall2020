@@ -4,13 +4,13 @@
     "private": true,
     "proxy": "http://localhost:8000",
     "dependencies": {
-        "enzyme": "^3.10.0",
-        "enzyme-adapter-react-16": "^1.14.0",
-        "json-server": "^0.15.1",
-        "react": "^16.9.0",
-        "react-dom": "^16.9.0",
-        "react-scripts": "3.1.1",
-        "react-test-renderer": "^16.9.0"
+        "enzyme": "^3.11.0",
+        "enzyme-adapter-react-16": "^1.15.4",
+        "json-server": "^0.16.1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-scripts": "3.4.3",
+        "react-test-renderer": "^16.13.1"
     },
     "scripts": {
         "start": "react-scripts start",
