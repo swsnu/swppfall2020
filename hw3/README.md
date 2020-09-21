@@ -246,7 +246,6 @@ Refer to HW1 to create another private repository.
 
 Also, make sure to add TA(`kdh0102`) as your collaborator in the repository settings. 
 
-Please put your React application files in the root folder (not inside another `hw3` or `skeleton` folder) appropriately.
 We automatize the grading process, so your homework may not be graded properly if your directory hierarchy doesn't look like this:
 
 ```
