@@ -86,5 +86,21 @@ Donghyun Kim
 (Please send TAs an email ahead of time, we can set up a specific time and place)
 
 ## Project Teams
-The project list will be announced after the team formation is done.
-
+- Team 1 : Foodify
+- Team 2 : Almanac
+- Team 3 : Recipick
+- Team 4 : QuantCash
+- Team 5 : AllTastesMatter
+- Team 6 : Rotus
+- Team 7 : Naeng Pa
+- Team 8 : adoor
+- Team 9 : PLAND
+- Team 10 : F.R.I.D.G.E
+- Team 11 : ASAP GO
+- Team 12 : Caffeine Camera
+- Team 13 : Goaling Ball
+- Team 14 : Fontopia!
+- Team 15 : stockin'
+- Team 16 : Coding MBTI
+- Team 17 : Safe-it or ShallWeGame
+- Team 18 : Term'inator
