@@ -4,7 +4,7 @@
 - [x] HW1 out: 9/2 (Wed); due: 9/11 (Fri) 6pm
 - [x] Team formation due 9/13 (Sun) 6pm
 - [x] HW2 out: 9/9 (Wed); due: 9/18 (Fri) 6pm
-- [ ] Project proposal due 9/22 (Tue) 6pm
+- [x] Project proposal due 9/22 (Tue) 6pm
 - [ ] HW3 out: 9/21 (Mon); due 10/4 (Sun) 6pm (feature), 10/12 (Mon) 6pm (unittest)
 
 ## Assignments
@@ -102,5 +102,5 @@ Donghyun Kim
 - Team 14 : Fontopia!
 - Team 15 : stockin'
 - Team 16 : Coding MBTI
-- Team 17 : Safe-it or ShallWeGame
+- Team 17 : Safe-it
 - Team 18 : Term'inator
