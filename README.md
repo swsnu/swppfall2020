@@ -5,7 +5,7 @@
 - [x] Team formation due 9/13 (Sun) 6pm
 - [x] HW2 out: 9/9 (Wed); due: 9/18 (Fri) 6pm
 - [x] Project proposal due 9/22 (Tue) 6pm
-- [ ] HW3 out: 9/21 (Mon); due 10/4 (Sun) 6pm (feature), 10/12 (Mon) 6pm (unittest)
+- [ ] HW3 out: 9/21 (Mon); due 10/7 (Wed) 6pm (feature), 10/15 (Thu) 6pm (unittest)
 
 ## Assignments
 
@@ -18,15 +18,15 @@
   - This is an individual assignment
 
 - Sep. 21: [homework 3](hw3) is out
-  - **Due : 10/4 (Sun) 18:00 (feature), 10/12 (Mon) 18:00 (unittest) (hard deadline)**
+  - **Due : 10/7 (Wed) 18:00 (feature), 10/15 (Thu) 18:00 (unittest) (hard deadline)**
   - This is an individual assignment
 
-- Oct. 12: homework 4 is out
-  - **Due : 10/27 (Tue) 18:00 (hard deadline)**
+- Oct. 15: homework 4 is out
+  - **Due : 10/28 (Wed) 18:00 (hard deadline)**
   - This is an individual assignment
   
-- Oct. 21: homework 5 is out
-  - **Due : 11/3 (Tue) 18:00 (hard deadline)**
+- Oct. 28: homework 5 is out
+  - **Due : 11/8 (Sun) 18:00 (hard deadline)**
   - This is an individual assignment
 
 ## [Project Guideline](project)
@@ -44,15 +44,15 @@ There may be some changes to the schedule.
 |9/14,16 | SaaS architecture; Building software; ORM | React | HW2 due 9/18 6pm |
 |9/21,23 | Project sprints; Requirements and specification;  | Redux | HW3 out 9/21, <br/> Project proposal due 9/22 6pm |
 |9/28 | Testing | Choosuk (No practice session) | |
-|10/5,7 | Software development process; Design patterns | 10/5: Frontend Testing (Jest + Enzyme), <br/> 10/8: Django | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint), <br/> HW3 due 10/12 6pm |
-|10/12,14 | Taming complexity; defensive programming; Design patterns | Django + Python Testing | HW4 out 10/12 |
-|10/19,21 | Design patterns | AWS + SageMaker | Project sprint 2 begin, <br/> HW5 out 10/21, <br/> HW4 due 10/27 6pm |
-|10/26,28 | Design patterns; code refactoring | CI + SonarCloud + Design Pattern | |
-|11/2,4 | Operation | AWS + Code Refactoring | Project sprint 3 begin, <br/> HW5 due 11/3 6pm |
+|10/5,7 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
+|10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW4 out 10/15, <br/> HW3 due 10/15 6pm |
+|10/19,21 | Design patterns | Django + Python Testing | Project sprint 2 begin |
+|10/26,28 | Design patterns; code refactoring | AWS + Sagemaker | HW4 due 10/28 6pm, <br/> HW5 out 10/28 |
+|11/2,4 | Operation | CI + SonarCloud + Design Pattern | Project sprint 3 begin, <br/> HW5 due 11/8 6pm |
 |11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on both 11/11 and 11/12. |
 |11/16,18 | ML pipeline | AWS + Scaling + Deployment | Project sprint 4 begin |
 |11/23,25 | ML pipeline | Final Exam 11/26 | Coding exams (Minimum 3 hours) |
-|11/30,12/2 | Operation | | Project sprint 5 begin |
+|11/30,12/2 | Operation | AWS + Code Refactoring | Project sprint 5 begin |
 |12/7,9 | TBD | Testing Session | |
 |12/17 | Project poster session | | Project final report (due 12/18 6pm) |
 

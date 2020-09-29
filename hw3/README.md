@@ -1,8 +1,8 @@
 # Homework 3 - React Library & Testing
 
 #### **Due (These are hard deadlines)**
-- ##### **Feature Implementation Due: 10/4 (Sun) 18:00**
-- ##### **Testing Implementation Due: 10/12 (Mon) 18:00**
+- ##### **Feature Implementation Due: 10/7 (Wed) 18:00**
+- ##### **Testing Implementation Due: 10/15 (Thu) 18:00**
 
 You will implement a front-end for a blogging service using React library. This is an **individual** assignment.
 This assignment will help you
@@ -249,8 +249,8 @@ Finally, since you have to implement many features, start early!
 ## Submission
 
 **Due: (These are hard deadlines)**
-- **Feature Implementation Due: 10/4 (Sun) 18:00**
-- **Testing Implementation Due: 10/12 (Mon) 18:00**
+- **Feature Implementation Due: 10/7 (Wed) 18:00**
+- **Testing Implementation Due: 10/15 (Thu) 18:00**
 
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 
