@@ -6,6 +6,7 @@
 - [x] HW2 out: 9/9 (Wed); due: 9/18 (Fri) 6pm
 - [x] Project proposal due 9/22 (Tue) 6pm
 - [ ] HW3 out: 9/21 (Mon); due 10/7 (Wed) 6pm (feature), 10/15 (Thu) 6pm (unittest)
+- [ ] HW4 out: 10/14 (Wed); due 10/28 (wed) 6pm
 
 ## Assignments
 
@@ -21,7 +22,7 @@
   - **Due : 10/7 (Wed) 18:00 (feature), 10/15 (Thu) 18:00 (unittest) (hard deadline)**
   - This is an individual assignment
 
-- Oct. 15: homework 4 is out
+- Oct. 14: homework 4 is out
   - **Due : 10/28 (Wed) 18:00 (hard deadline)**
   - This is an individual assignment
   
@@ -45,7 +46,7 @@ There may be some changes to the schedule.
 |9/21,23 | Project sprints; Requirements and specification;  | Redux | HW3 out 9/21, <br/> Project proposal due 9/22 6pm |
 |9/28 | Testing | Choosuk (No practice session) | |
 |10/5,7 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
-|10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW4 out 10/15, <br/> HW3 due 10/15 6pm |
+|10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW4 out 10/14, <br/> HW3 due 10/15 6pm |
 |10/19,21 | Design patterns | Django + Python Testing | Project sprint 2 begin |
 |10/26,28 | Design patterns; code refactoring | AWS + Sagemaker | HW4 due 10/28 6pm, <br/> HW5 out 10/28 |
 |11/2,4 | Operation | CI + SonarCloud + Design Pattern | Project sprint 3 begin, <br/> HW5 due 11/8 6pm |
