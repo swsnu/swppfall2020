@@ -6,7 +6,7 @@
 - [x] HW2 out: 9/9 (Wed); due: 9/18 (Fri) 6pm
 - [x] Project proposal due 9/22 (Tue) 6pm
 - [ ] HW3 out: 9/21 (Mon); due 10/7 (Wed) 6pm (feature), 10/15 (Thu) 6pm (unittest)
-- [ ] HW4 out: 10/14 (Wed); due 10/28 (wed) 6pm
+- [ ] HW4 out: 10/14 (Wed); due 10/29 (Thu) 6pm
 
 ## Assignments
 
@@ -23,7 +23,7 @@
   - This is an individual assignment
 
 - Oct. 14: homework 4 is out
-  - **Due : 10/28 (Wed) 18:00 (hard deadline)**
+  - **Due : 10/29 (Thu) 18:00 (hard deadline)**
   - This is an individual assignment
   
 - Oct. 28: homework 5 is out
