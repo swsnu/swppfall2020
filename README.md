@@ -22,7 +22,7 @@
   - **Due : 10/7 (Wed) 18:00 (feature), 10/15 (Thu) 18:00 (unittest) (hard deadline)**
   - This is an individual assignment
 
-- Oct. 14: homework 4 is out
+- Oct. 14: [homework 4](hw4) is out
   - **Due : 10/29 (Thu) 18:00 (hard deadline)**
   - This is an individual assignment
   
