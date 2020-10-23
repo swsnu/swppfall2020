@@ -26,8 +26,8 @@
   - **Due : 10/29 (Thu) 18:00 (hard deadline)**
   - This is an individual assignment
   
-- Oct. 28: homework 5 is out
-  - **Due : 11/8 (Sun) 18:00 (hard deadline)**
+- ~~Oct. 28~~ (TBD): homework 5 is out
+  - **Due : TBD**
   - This is an individual assignment
 
 ## [Project Guideline](project)
@@ -48,12 +48,12 @@ There may be some changes to the schedule.
 |10/5,7 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
 |10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW4 out 10/14, <br/> HW3 due 10/15 6pm |
 |10/19,21 | Design patterns | Django + Python Testing | Project sprint 2 begin |
-|10/26,28 | Design patterns; code refactoring | AWS + Sagemaker | HW4 due 10/28 6pm, <br/> HW5 out 10/28 |
-|11/2,4 | Operation | CI + SonarCloud + Design Pattern | Project sprint 3 begin, <br/> HW5 due 11/8 6pm |
+|10/26,28 | Design patterns; code refactoring | Integration + CI + SonarCloud | HW4 due 10/28 6pm |
+|11/2,4 | Operation | AWS + Sagemaker | Project sprint 3 begin |
 |11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on both 11/11 and 11/12. |
-|11/16,18 | ML pipeline | AWS + Scaling + Deployment | Project sprint 4 begin |
+|11/16,18 | ML pipeline | AWS + Scaling + Deployment + Design Pattern | Project sprint 4 begin |
 |11/23,25 | ML pipeline | Final Exam 11/26 | Coding exams (Minimum 3 hours) |
-|11/30,12/2 | Operation | AWS + Code Refactoring | Project sprint 5 begin |
+|11/30,12/2 | Operation | Code Refactoring | Project sprint 5 begin |
 |12/7,9 | TBD | Testing Session | |
 |12/17 | Project poster session | | Project final report (due 12/18 6pm) |
 
