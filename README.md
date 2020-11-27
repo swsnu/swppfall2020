@@ -103,5 +103,5 @@ Donghyun Kim
 - Team 14 : Fontopia!
 - Team 15 : stockin'
 - Team 16 : Coding MBTI
-- Team 17 : Safe-it
+- Team 17 : Shall We Game?
 - Team 18 : Term'inator
