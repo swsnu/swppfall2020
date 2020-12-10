@@ -87,21 +87,21 @@ Donghyun Kim
 (Please send TAs an email ahead of time, we can set up a specific time and place)
 
 ## Project Teams
-- Team 1 : Foodify
-- Team 2 : Almanac
-- Team 3 : Recipick
-- Team 4 : QuantCash
-- Team 5 : AllTastesMatter
-- Team 6 : Rotus
-- Team 7 : Naeng Pa
-- Team 8 : adoor
-- Team 9 : PLAND
-- Team 10 : F.R.I.D.G.E
-- Team 11 : ASAP GO
-- Team 12 : Caffeine Camera
-- Team 13 : Goaling Ball
-- Team 14 : Fontopia!
-- Team 15 : stockin'
-- Team 16 : Coding MBTI
-- Team 17 : Shall We Game?
-- Team 18 : Term'inator
+- Team 1 : [Foodify](https://github.com/swsnu/swpp2020-team1)
+- Team 2 : [Almanac](https://github.com/swsnu/swpp2020-team2)
+- Team 3 : [Recipick](https://github.com/swsnu/swpp2020-team3)
+- Team 4 : [QuantCash](https://github.com/swsnu/swpp2020-team4)
+- Team 5 : [AllTastesMatter](https://github.com/swsnu/swpp2020-team5)
+- Team 6 : [Rotus](https://github.com/swsnu/swpp2020-team6)
+- Team 7 : [Naeng Pa](https://github.com/swsnu/swpp2020-team7)
+- Team 8 : [adoor](https://github.com/swsnu/swpp2020-team8)
+- Team 9 : [PLAND](https://github.com/swsnu/swpp2020-team9)
+- Team 10 : [F.R.I.D.G.E](https://github.com/swsnu/swpp2020-team10)
+- Team 11 : [ASAP GO](https://github.com/swsnu/swpp2020-team11)
+- Team 12 : [Caffeine Camera](https://github.com/swsnu/swpp2020-team12)
+- Team 13 : [Goaling Ball](https://github.com/swsnu/swpp2020-team13)
+- Team 14 : [Fontopia!](https://github.com/swsnu/swpp2020-team14)
+- Team 15 : [stockin'](https://github.com/swsnu/swpp2020-team15)
+- Team 16 : [Coding MBTI](https://github.com/swsnu/swpp2020-team16)
+- Team 17 : [Shall We Game?](https://github.com/swsnu/swpp2020-team17)
+- Team 18 : [Term'inator](https://github.com/swsnu/swpp2020-team18)
