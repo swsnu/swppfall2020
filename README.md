@@ -50,9 +50,9 @@ There may be some changes to the schedule.
 |10/19,21 | Design patterns | Django + Python Testing | Project sprint 2 begin |
 |10/26,28 | Design patterns; code refactoring | Integration + CI + SonarCloud | HW4 due 10/28 6pm |
 |11/2,4 | Operation | Deployment + Design Pattern | Project sprint 3 begin |
-|11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on 11/11. |
+|11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on 11/11 and 12. |
 |11/16,18 | ML pipeline | AWS SageMaker + Optimization | Project sprint 4 begin |
-|11/23,25 | ML pipeline | Final Exam 11/25 | Coding exams (In-class exam ~ 4 hours) |
+|11/23,25 | ML pipeline | Final Exam 11/26 | Coding exams (In-class exam ~ 3 hours) |
 |11/30,12/2 | Operation | Code Refactoring | Project sprint 5 begin |
 |12/7,9 | TBD | Testing Session | |
 |12/17 | Project poster session | | Project final report (due 12/18 6pm) |
